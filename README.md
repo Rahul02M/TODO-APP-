@@ -15,7 +15,11 @@ Include screenshots  showcasing your website’s UI. <br>
 -For Desktop Screens
 ![TODO for pc](https://github.com/Rahul02M/TODO-APP-/assets/133855195/a091d0cb-cb58-4570-bbdc-3bd905f404d6)
 <br>
+<br>
+
 -For Phones Screens
+<br>
+
 ![ss todo for phone](https://github.com/Rahul02M/TODO-APP-/assets/133855195/d3547524-2871-4306-be8b-16901f377603)
 
 
