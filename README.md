@@ -8,4 +8,15 @@ It promotes code reusability  and components. React.js is a powerful library for
 - Add Tasks: Easily add new tasks to your list.
 - Delete Tasks: Remove completed or unnecessary tasks.
 - Task Management: Keep track of your to-do items.
+ <br>
+ 
+# Screenshots
+Include screenshots  showcasing your website’s UI. <br>
+-For Desktop Screens
+![TODO for pc](https://github.com/Rahul02M/TODO-APP-/assets/133855195/a091d0cb-cb58-4570-bbdc-3bd905f404d6)
+<br>
+-For Phones Screens
+![ss todo for phone](https://github.com/Rahul02M/TODO-APP-/assets/133855195/d3547524-2871-4306-be8b-16901f377603)
+
+
 
