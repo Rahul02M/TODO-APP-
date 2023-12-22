@@ -5,7 +5,7 @@ It promotes code reusability  and components. React.js is a powerful library for
 <br>
 
 # Features
--Add Tasks: Easily add new tasks to your list.
--Delete Tasks: Remove completed or unnecessary tasks.
--Task Management: Keep track of your to-do items.
+- Add Tasks: Easily add new tasks to your list.
+- Delete Tasks: Remove completed or unnecessary tasks.
+- Task Management: Keep track of your to-do items.
 
