@@ -11,7 +11,7 @@ It promotes code reusability  and components. React.js is a powerful library for
  <br>
  
 # Screenshots
-Include screenshots  showcasing your website’s UI. <br>
+Include screenshots  showcasing  website’s UI. <br>
 -For Desktop Screens
 ![TODO for pc](https://github.com/Rahul02M/TODO-APP-/assets/133855195/a091d0cb-cb58-4570-bbdc-3bd905f404d6)
 <br>
